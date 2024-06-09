@@ -1,0 +1,26 @@
+{
+  "name": "create-fast-dev",
+  "version": "0.0.1",
+  "description": "",
+  "dependencies": {
+  },
+  "type": "commonjs",
+  "main": "./src/index.ts",
+  "keywords": [
+  ],
+  "homepage": "https://github.com/nickfrosty/create-fast-dev#readme",
+  "bugs": {
+    "url": "https://github.com/nickfrosty/create-fast-dev/issues"
+  },
+  "repository": {
+    "name": "nickfrosty/create-fast-dev",
+    "type": "git",
+    "url": "https://github.com/nickfrosty/create-fast-dev"
+  },
+  "contributors": [
+    {
+      "name": "Nick Frostbutter",
+      "url": "https://github.com/nickfrosty"
+    }
+  ]
+}
